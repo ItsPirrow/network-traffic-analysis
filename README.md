@@ -11,7 +11,15 @@ Este repositorio contiene análisis detallados de capturas de tráfico de red (a
 - **Hallazgos clave:** Identificación del host `DESKTOP-TEYQ2NR` y la cuenta de usuario `brolf` (Becka Rolf) como activos comprometidos.
 - **Documento:** [Ver PDF Completo](./analysis-01-netsupport-rat/Análisis-NetSupport-RAT-BeckaRolf.pdf)
 
+### 2. Infección por Lumma Stealer (Infostealer)
+* **Escenario:** Detección de actividad de *fingerprinting* y exfiltración hacia el dominio C2 `whitepepper.su`.
+* **Protocolos:** HTTP, Kerberos, SMB2, NBNS, TCP.
+* **Hallazgos Clave:** Identificación del host `DESKTOP-ES9F3ML` y el usuario `gwyatt` (Gabriel Wyatt).
+* **Documento:** [Ver PDF Completo](./analysis-02-lumma-stealer/Analisis-LummaStealer-WIN11OFFICE.pdf)
+
 ---
 
 ## 🛠️ Herramientas Utilizadas
 * **Wireshark:** Análisis profundo de paquetes y filtrado de protocolos.
+* **Virustotal & UrlScan:** Análisis de dominios y URLs.
+* **AbuseIPDB:** Análisis de IPs.
