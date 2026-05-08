@@ -1,7 +1,7 @@
 # Lumma Stealer Windows 11 Office
 
 ## 🛡️ Descripción
-Este repositorio contiene el [análisis detallado en pdf](Analisis-LummaStealer-WIN11OFFICE.pdf) del archivo [2026-01-31-traffic-analysis-exercise.pcap](2026-01-31-traffic-analysis-exercise.pcap).
+Este repositorio contiene el [análisis detallado en pdf](Análisis-LummaStealer-WIN11OFFICE.pdf) del archivo [2026-01-31-traffic-analysis-exercise.pcap](2026-01-31-traffic-analysis-exercise.pcap).
 
 ---
 
